@@ -4,6 +4,8 @@
     "lang": "fr",
     "author": "Prince Mwenyemali",
     "description": "les guide pour les Hustlers",
+    "theme-color": "#fff",
+    "background-color":"white",
     "start_url": "./?utm_source=web_app_manifest",
     "display": "standalone",
     "icons": [{
