@@ -1,0 +1,19 @@
+{
+  "name": "chokora",
+  "version": "1.0.0",
+  "description": "Hustlers guide to good life and travel experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devprince101/chokora.git"
+  },
+  "author": "Prince Mwenyemali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devprince101/chokora/issues"
+  },
+  "homepage": "https://github.com/devprince101/chokora#readme"
+}
